@@ -1,0 +1,7 @@
+.idea/workspace.xml
+.idea/*
+JavaForTesters.iml
+target/test-classes/ChapterThree/MyFirstTest.class
+target/test-classes/ChapterOne/AnEmptyClass.class
+target/test-classes/ChapterOne/AClassWithAMethod.class
+target/test-classes/ChapterFour/IntegerExamplesTest.class
