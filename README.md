@@ -1,6 +1,7 @@
 Java For Testers
 ===============
 
+[![Build Status](https://travis-ci.org/thomaschaplin/JavaForTesters.svg?branch=master)](https://travis-ci.org/thomaschaplin/JavaForTesters)
 
 About
 -----
